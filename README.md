@@ -1,6 +1,6 @@
 ## E-commerce Website End-to-End Testing with Playwright
 
-This GitHub project is an end-to-end testing framework built with [Playwright] (https://playwright.dev/) for automating a complete user journey on an e-commerce website. The framework tests the workflow of browsing, filtering, and purchasing a product (a sofa) while validating key steps along the way.
+This GitHub project is an end-to-end testing framework built with [Playwright](https://playwright.dev/) for automating a complete user journey on an e-commerce website. The framework tests the workflow of browsing, filtering, and purchasing a product (a sofa) while validating key steps along the way.
 
 ## Features
 1. End-to-end automation of the user journey:
@@ -25,8 +25,6 @@ This GitHub project is an end-to-end testing framework built with [Playwright] (
 - Language: JavaScript/TypeScript
 - Test Runner: Playwright Test
 - Reporting: Playwright's HTML Report
-- CI/CD Integration: Supports GitHub Actions or other CI tools.
-
 
 ## Getting Started
 
